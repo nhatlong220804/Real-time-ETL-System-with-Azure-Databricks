@@ -1,0 +1,51 @@
+server_id,data_center_id,location,admin_email,purchase_date
+SRV-1001,DC-DN-01,Ho Chi Minh,nvillanueva@example.net,2024-12-17
+SRV-1002,DC-DN-01,Ho Chi Minh,nelsonjonathan@example.org,2024-04-23
+SRV-1003,DC-HCM-01,Ha Noi,chadreynolds@example.net,2024-01-21
+SRV-1004,DC-DN-01,Da Nang,williamsgregory@example.com,2025-09-07
+SRV-1005,DC-DN-01,Ha Noi,corey02@example.org,2024-05-02
+SRV-1006,DC-DN-01,Ha Noi,xduncan@example.org,2025-10-14
+SRV-1007,DC-DN-01,Ho Chi Minh,campostammy@example.org,2025-07-19
+SRV-1008,DC-HCM-01,Da Nang,edwardsandrew@example.org,2025-09-11
+SRV-1009,DC-DN-01,Ho Chi Minh,jtate@example.net,2024-06-11
+SRV-1010,DC-DN-01,Ho Chi Minh,torresryan@example.net,2024-09-25
+SRV-1011,DC-HCM-01,Da Nang,brownlauren@example.org,2024-01-13
+SRV-1012,DC-HN-01,Da Nang,louis09@example.com,2024-05-02
+SRV-1013,DC-HN-01,Ha Noi,robertunderwood@example.com,2024-04-27
+SRV-1014,DC-HCM-01,Da Nang,umiller@example.com,2025-10-08
+SRV-1015,DC-HN-01,Da Nang,jonesdavid@example.org,2024-04-09
+SRV-1016,DC-DN-01,Ho Chi Minh,robert97@example.com,2025-04-20
+SRV-1017,DC-DN-01,Ha Noi,rachaelyoung@example.com,2024-02-04
+SRV-1018,DC-HCM-01,Da Nang,garciamichael@example.com,2024-11-15
+SRV-1019,DC-DN-01,Ho Chi Minh,rodriguezgregory@example.com,2025-03-10
+SRV-1020,DC-DN-01,Ho Chi Minh,veronicashannon@example.net,2025-04-22
+SRV-1021,DC-HN-01,Da Nang,ijackson@example.net,2024-12-29
+SRV-1022,DC-HCM-01,Ha Noi,ibrown@example.net,2025-03-01
+SRV-1023,DC-DN-01,Ha Noi,freemanjodi@example.org,2024-11-28
+SRV-1024,DC-HN-01,Da Nang,hrobinson@example.net,2024-05-07
+SRV-1025,DC-HCM-01,Da Nang,kcalderon@example.net,2025-06-21
+SRV-1026,DC-DN-01,Ho Chi Minh,blopez@example.net,2024-03-22
+SRV-1027,DC-HCM-01,Ho Chi Minh,lauren67@example.org,2024-12-06
+SRV-1028,DC-DN-01,Da Nang,macktimothy@example.com,2024-08-24
+SRV-1029,DC-HN-01,Ho Chi Minh,barnesmonique@example.net,2025-03-23
+SRV-1030,DC-HN-01,Ha Noi,jacobrodriguez@example.net,2025-08-02
+SRV-1031,DC-HCM-01,Ho Chi Minh,melissa61@example.com,2024-10-11
+SRV-1032,DC-HCM-01,Ho Chi Minh,hellis@example.com,2024-01-30
+SRV-1033,DC-HN-01,Ho Chi Minh,angelsmith@example.com,2024-06-22
+SRV-1034,DC-DN-01,Ho Chi Minh,catherinerichmond@example.org,2024-11-24
+SRV-1035,DC-DN-01,Ha Noi,rebekah48@example.com,2025-06-01
+SRV-1036,DC-DN-01,Ha Noi,crawfordchristopher@example.org,2025-01-21
+SRV-1037,DC-DN-01,Ho Chi Minh,rjames@example.net,2025-02-06
+SRV-1038,DC-DN-01,Ha Noi,brianna99@example.com,2025-10-13
+SRV-1039,DC-DN-01,Ho Chi Minh,jamiephillips@example.com,2024-03-12
+SRV-1040,DC-HCM-01,Da Nang,greenheather@example.org,2024-09-29
+SRV-1041,DC-HCM-01,Ho Chi Minh,danielwilliams@example.org,2024-12-10
+SRV-1042,DC-HN-01,Ha Noi,uedwards@example.com,2024-12-20
+SRV-1043,DC-HCM-01,Ho Chi Minh,anne08@example.com,2024-08-11
+SRV-1044,DC-DN-01,Ho Chi Minh,griffinkristina@example.net,2024-08-30
+SRV-1045,DC-HN-01,Da Nang,jennifer90@example.org,2024-03-01
+SRV-1046,DC-HN-01,Ha Noi,stewartjennifer@example.org,2024-12-01
+SRV-1047,DC-DN-01,Da Nang,andre20@example.org,2024-05-11
+SRV-1048,DC-DN-01,Ho Chi Minh,saraholson@example.net,2024-12-11
+SRV-1049,DC-DN-01,Ho Chi Minh,tammie39@example.net,2024-06-29
+SRV-1050,DC-HN-01,Da Nang,cliffordpatterson@example.com,2025-04-24

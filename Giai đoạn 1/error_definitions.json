@@ -1,0 +1,49 @@
+[
+    {
+        "error_code": "ERR_CPU_HIGH",
+        "description": "CPU usage exceeded safe threshold",
+        "details": {
+            "severity": "Critical",
+            "possible_causes": [
+                "Runaway process",
+                "Malware infection",
+                "Cooling failure"
+            ],
+            "resolution_steps": [
+                "Check task manager",
+                "Scan virus",
+                "Check fans"
+            ]
+        }
+    },
+    {
+        "error_code": "ERR_RAM_OOM",
+        "description": "Out of Memory",
+        "details": {
+            "severity": "High",
+            "possible_causes": [
+                "Memory leak",
+                "Too many apps"
+            ],
+            "resolution_steps": [
+                "Restart service",
+                "Add RAM"
+            ]
+        }
+    },
+    {
+        "error_code": "ERR_DISK_FULL",
+        "description": "Disk space is full",
+        "details": {
+            "severity": "Medium",
+            "possible_causes": [
+                "Log files accumulation",
+                "Large downloads"
+            ],
+            "resolution_steps": [
+                "Clear temp files",
+                "Archive logs"
+            ]
+        }
+    }
+]
