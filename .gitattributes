@@ -1,0 +1,6 @@
+# keep the Databricks HTML exports and write-ups out of the language stats
+exports/* linguist-documentation
+report/* linguist-documentation
+dashboard/* linguist-documentation
+
+*.ipynb linguist-detectable
