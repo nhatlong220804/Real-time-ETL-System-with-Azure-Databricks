@@ -1,6 +1,11 @@
-# keep the Databricks HTML exports and write-ups out of the language stats
-exports/* linguist-documentation
-report/* linguist-documentation
-dashboard/* linguist-documentation
+# Notebook HTML exports, reports and dashboard files are archived artefacts.
+# Keep them out of the language breakdown so the repo reads as a notebook project.
+exports/** linguist-vendored
+exports/** linguist-documentation
+report/** linguist-vendored
+report/** linguist-documentation
+dashboard/** linguist-vendored
+dashboard/** linguist-documentation
 
 *.ipynb linguist-detectable
+*.py linguist-detectable
