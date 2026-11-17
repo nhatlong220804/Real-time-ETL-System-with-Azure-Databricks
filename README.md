@@ -135,8 +135,12 @@ Listing this honestly because it is the part I would fix first:
 
 ```
 notebooks/   Databricks notebooks, .ipynb so the code is readable on GitHub
-exports/     original Databricks HTML exports, these have the cell outputs
 src/         data generator, inventory CSV, error definitions
 dashboard/   Power BI file and workflow diagram
 report/      write-up per stage
 ```
+
+The original Databricks HTML exports are not on `main`. They embedded the
+connection keys inside the notebook payload, so I dropped them from the current
+tree rather than leave them one base64 decode away. They are still in the git
+history if you need the rendered cell outputs.
