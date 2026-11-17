@@ -1,3 +1,4 @@
+import os
 import time
 import json
 import random
@@ -7,7 +8,7 @@ from azure.eventhub import EventHubProducerClient, EventData
 from faker import Faker
 
 # --- CẤU HÌNH (THAY THẾ THÔNG TIN CỦA BẠN VÀO ĐÂY) ---
-CONNECTION_STR = "Endpoint=sb://evhns-capstone-34birh7RIqEo3Og5HqspgZCRu0x7tOQy7+AEhJxosAw="
+CONNECTION_STR = os.environ["EVENTHUB_CONNECTION_STR"]
 EVENT_HUB_NAME = "server-telemetry"
 
 fake = Faker()
